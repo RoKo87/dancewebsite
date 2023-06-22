@@ -1,0 +1,44 @@
+a {
+    font-family: serif 
+}
+body {
+    background: rgb(230, 230, 230);
+}
+h2 {
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+p {
+    font-family: serif;
+    font-size: 12px;
+} 
+
+.footer {
+    background-color: white;
+    padding: 10px;
+}
+
+.midding {
+    background-image: url(coolign.jpg);
+    background-size: 100vw;
+    height: 60vh;
+}
+
+
+.nav-item {
+    background-color: white;
+    width: 20%;
+}
+.nav-item a {
+    font-family: serif;
+    color: black;
+    transition: all 0.5s;
+    padding: 8px 0px 8px 0px;
+    font-size: 12px;
+}
+.nav-item a:hover {
+    /* background-color: #dddddd; */
+    font-size: 12px;
+    color: #919191;
+    transition: all 0.5s;
+}
