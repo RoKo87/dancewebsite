@@ -35,15 +35,15 @@ p {
 }
 
 .logo {
-    background-image: url(coolign.jpg);
+    background-image: url(whitebg.png);
     background-size: 100vw;
     height: 400px;
 }
 
 .mid {
-    background-image: url(coolign.jpg);
+    background-image: url(whitebg.png);
     background-size: 100vw;
-    height: 160px;
+    height: 170px;
 
 }
 
